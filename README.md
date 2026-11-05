@@ -34,11 +34,19 @@ Android vous demandera une seule fois :
   concerne que cette application et vous n'en aurez plus besoin ensuite
   (les mises à jour passent par l'application elle-même).
 
-> ℹ️ **Aucun mode développeur n'est nécessaire.** Inutile de toucher aux
-> paramètres avancés du téléphone. Inutile non plus de désactiver Play Protect :
-> si un avertissement apparaît, choisissez simplement **« Installer quand même »**
-> ou **« Installer sans analyse »** — l'application est signée, sans publicité,
-> sans traqueur et n'envoie aucune donnée.
+> 🔎 **Bien vérifier la source avant d'installer** : un fichier APK peut être
+> imité, seul l'origine compte. Vérifiez que le lien de téléchargement pointe
+> bien vers **`github.com/Junta357/atelier-des-reves-app`** (sans tiret ni
+> caractère inhabituel dans le nom), et de préférence via le lien officiel que
+> l'auteur vous a envoyé directement. Pendant l'installation, Android affiche
+> le nom de l'application : il doit être **« Atelier des rêves »**.
+>
+> ℹ️ **Aucun mode développeur n'est nécessaire** et il n'est pas demandé de
+> modifier les réglages de sécurité de votre téléphone. Si Google Play Protect
+> affiche un avertissement (normal pour une application distribuée hors Play
+> Store), vous pouvez l'**envoyer pour analyse** depuis l'écran d'installation :
+> l'application ne demande aucune permission sensible au-delà du micro
+> (pour la dictée des rêves) et n'envoie aucune donnée sur Internet.
 
 **Étape 3 — Première ouverture**
 
